@@ -5,8 +5,8 @@
 #include <freertos/task.h>
 #include <esp_ipc.h>
 
-#define wifi_ssid "CLARO_2G24445D"
-#define wifi_password "AF24445D"
+#define wifi_ssid "ssid"
+#define wifi_password "password"
 #define USE_SERIAL Serial
 #define LED_BUILTIN 2
 
